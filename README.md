@@ -43,7 +43,7 @@
 
 ## Dashboard
 
-<img width="1197" height="552" alt="E-Commerce Sales Dashboard" src="YOUR_DASHBOARD_IMAGE_LINK">
+<a  href  ="https://github.com/Sowmya782/ECOMMERCE-DASHBOARD/blob/main/ECOMMERCE%20DASHBOARD.png"></a>
 
 ---
 
